@@ -48,7 +48,7 @@ There is a bad signal to noise ratio for the fMRI data. This led to the cranium 
 
 ## Regions of Brain Activation
 The experimental fMRI data can then be correlated with the regressor as given above. This will show regions of brain activations with the HRF associated to the stimulus response. 
-|![image](https://github.com/user-attachments/assets/3e75f158-249d-4294-bf22-7cb5a075f760)|
+|![image](https://github.com/user-attachments/assets/d232cea5-3803-4ed7-8577-c754d55699bb)|
 |:--:|
 |Correlation for showing regions of activation for HRF truncated for post-stimulus dip| 
 
