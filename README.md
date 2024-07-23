@@ -24,6 +24,7 @@ The hypothetical function for a stimulus response has been proposed as the Hemod
 |The Standard Hemodynamic Response Function|
 
 |![image](https://github.com/user-attachments/assets/200bfd17-6b20-4b3a-863d-e9e8f9c8f728)|
+|:--:|
 |Regressor of the HRF convoluted with the HRF|
 
 The HRF has a peak that goes above baseline, and a trough (post-stimulus dip) that goes below baseline. The project explored correlation with both aspects of this property. 
