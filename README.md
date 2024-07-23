@@ -52,7 +52,7 @@ The experimental fMRI data can then be correlated with the regressor as given ab
 |:--:|
 |Correlation for showing regions of activation for HRF truncated for post-stimulus dip| 
 
-|![image](https://github.com/user-attachments/assets/38e4fdc6-9af0-4543-b707-42cde55e75ac)|
+|![image](https://github.com/user-attachments/assets/85164553-d14a-4bb2-bb62-0ee88c2fbead)|
 |:--:|
 |12 Slices of the brain showing regions of correlation with the standard HRF|
 
