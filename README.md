@@ -18,7 +18,7 @@ Firstly, we needed to model the theoretical data of how the HRF would look like 
 |:--:|
 |Box cars of the whole stumulus responses for a subject|
 
-## Convolution of EEG with the Hemodynamic Response Function 
+### Convolution of EEG with the Hemodynamic Response Function 
 The hypothetical function for a stimulus response has been proposed as the Hemodynamic Response Function (HRF). This can now be convoluted with the EEG to visualise how the function would look like if it is actually associated with the stimulus response.
 
 |![image](https://github.com/user-attachments/assets/03f3938f-dfdb-4672-a153-8259097300d8)|
