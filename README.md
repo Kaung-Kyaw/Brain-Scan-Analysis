@@ -3,9 +3,11 @@ This repository contains the lab diary and key results for finding regions of br
 The lab diary may be too large to open in GitHub and will likely need to be downloaded locally. The project focused on finding regions of brain activation for the Standard Hemodynamic Response Function (HRF). The theoretical data of how it would hypothetically look like was modelled using EEG data convoluted with the HRF. 
 
 Next, the brain fMRI data had to be masked to cancel out the noise (cranium and regions outside of the head) to leave behind only brain pixels. This then gave us a time evolution of each pixel in the brain scan, which was comparable to the experimental fMRI data. The characteristic door knob shape was found, which is believed to be responsible for motor control. This correlated well with the subject in the data have a motor response. 
+Sections: [Modelling Theoretical Data - EEG](#EEG-Data-Boxcars), [Modelling Theoretical Data - Convolution](#Convolution-of-EEG-with-the-Hemodynamic-Response-Function),[Masking to Clean fMRI Data](#Cleaning-fMRI-data), [Results](#Regions-of-Brain-Activation)
 
-## EEG Data Boxcars 
-The EEG data would be associated with the stimulus response in the brain as it shows when the action is being performed. The response can be seen as a time of activation, duration then deactivation, resulting in box cars. 
+## Modelling Theoretical Data 
+### EEG Data Boxcars
+Firstly, we needed to model the theoretical data of how the HRF would look like if it is indeed associated with the stimulus response. The EEG data would be associated with the stimulus response in the brain as it shows when the action is being performed. The response can be seen as a time of activation, duration then deactivation, resulting in box cars. 
 
 |![12123 Boxcar 1th element Duration](https://github.com/user-attachments/assets/aaa5c000-2c45-4e93-a271-61844ae3a54d)|
 |:--:|
